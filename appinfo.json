@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "luciasBeta",
+    "longName": "LB",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/LB.png",
+                "menuIcon": true,
+                "name": "IMAGE_LOGO_LB",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "LB",
+    "uuid": "5b907e93-1acf-4a2d-ad40-3daa594af2e6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
